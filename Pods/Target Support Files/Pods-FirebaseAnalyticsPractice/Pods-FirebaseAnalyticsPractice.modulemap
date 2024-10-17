@@ -1,0 +1,6 @@
+framework module Pods_FirebaseAnalyticsPractice {
+  umbrella header "Pods-FirebaseAnalyticsPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
